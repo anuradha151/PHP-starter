@@ -11,3 +11,5 @@
 $txt = "Hello world war III";
 $x = 5;
 $y = 10.5;
+
+echo $x + $y;
