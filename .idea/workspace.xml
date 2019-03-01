@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6fea4a-1ffc-4f85-8d93-10b31943da9d" name="Default Changelist" comment="" />
+    <list default="true" id="4c6fea4a-1ffc-4f85-8d93-10b31943da9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/VariableScopes.php" beforeDir="false" afterPath="$PROJECT_DIR$/VariableScopes.php" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VariableScopes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="323">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -39,10 +41,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/VariableScopes.php" />
         <option value="$PROJECT_DIR$/DemoTwo.php" />
+        <option value="$PROJECT_DIR$/VariableScopes.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
@@ -110,15 +115,16 @@
       <option name="presentableId" value="Default" />
       <updated>1551430961780</updated>
       <workItem from="1551430969720" duration="18000" />
-      <workItem from="1551431054752" duration="675000" />
+      <workItem from="1551431054752" duration="1669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="693000" />
+    <option name="totallyTimeSpent" value="1687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -154,8 +160,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VariableScopes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="323">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
         </state>
       </provider>
     </entry>
