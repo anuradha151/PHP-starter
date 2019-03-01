@@ -14,3 +14,4 @@ $txt3 = "Hello";
 $txt4 = " world!";
 $txt3 .= $txt4;
 echo $txt3; // Hello world!
+
