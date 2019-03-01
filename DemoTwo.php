@@ -8,8 +8,8 @@
  * creating variables
  */
 
-$txt = "Hello world war III";
+$txt = "world war III";
 $x = 5;
 $y = 10.5;
 
-echo $x + $y;
+echo "I want $txt";
